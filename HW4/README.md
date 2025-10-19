@@ -1,4 +1,4 @@
-# Hi I thought I would make a separate README file to explain my code and talk about why I have two files for each trees.
+### Hi I thought I would make a separate README file to explain my code and talk about why I have two files for each trees.
 
 # __Summary__
     - I have two B\_Tree, BPlus\_Tree implementations that differ in handling insertions of existing keys with different values
